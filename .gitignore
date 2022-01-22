@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+
+.idea/
+nltk_data/
+
+*.log
+*.pyc
+*.out
+*.csv
+*.h5
+*.hdf5
+glove*
+*.npy
+train-labels.txt
+*.pkl
+*.bak
+.ipynb*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# General
+.DS_Store
+.AppleDouble
+
