@@ -5,6 +5,7 @@ Binary classification
 
 ## Models
 * Logistic regression
+* Naive Bayes
 * ...
 
 ## Dataset Information
